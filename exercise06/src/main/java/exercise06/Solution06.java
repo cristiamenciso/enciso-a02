@@ -12,7 +12,13 @@ import java.util.Calendar;
             String age = in.nextLine();
             System.out.print("At what age would you like to retire? ");
             String ageRetire = in.nextLine();
+            // Initiate calculator object
+            RetirementCalculator calc = new RetirementCalculator();
             // Call retirement function
+            int ageOfRetirement = calc.calculateRetirementAge(age, ageRetire);
+            int timeRemaining = calc.retirementYear(ageOfRetirement);
+            // print out the results
+            calc.printOutput(ageOfRetirement, timeRemaining);
         }
     }
 
