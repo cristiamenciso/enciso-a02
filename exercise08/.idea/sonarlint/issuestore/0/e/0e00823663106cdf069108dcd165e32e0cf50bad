@@ -1,0 +1,12 @@
+
+N	java:S106""9Replace this use of System.out or System.err by a logger.(™óÛÏ
+M	java:S106'"9Replace this use of System.out or System.err by a logger.(òˆ¿]
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(Ò¢üÿÿÿÿ
+M	java:S106/"9Replace this use of System.out or System.err by a logger.(òˆ¿]
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(¼§ıúÿÿÿÿ
+M	java:S1067"9Replace this use of System.out or System.err by a logger.(òˆ¿]
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(ÿİë©ıÿÿÿÿ8ÃéäÑ¿/
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(ÃšäÀüÿÿÿÿ8´İéÑ¿/
+Œ
+java:S1192'"pDefine a constant instead of duplicating this literal "Please enter a numeric value. Please try again." 3 times.(òˆ¿]8´İéÑ¿/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ç²öûÿÿÿÿ
